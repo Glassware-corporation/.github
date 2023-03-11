@@ -2,7 +2,11 @@
 
 glassware is a non-profit open source comapany
 
-if you would to surport our work then please goto {DONATE_LINK_HERE}
+---
+
+UPDATE: MARCH 10 2023
+
+glassware will be used again, it will now mainly focus on linux but sometimes a windows vareint may be made
 
 <!--
 
